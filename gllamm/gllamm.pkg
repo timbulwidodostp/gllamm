@@ -1,5 +1,13 @@
-d 'DEA': Data envelopment analysis
+d 'gllamm': Generalised linear latent and mixed models Use gllamm With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f eq_g.hlp
+f gllam_ll.ado
+f gllamm.ado
+f gllamm.hlp
+f gllapred.ado
+f gllapred.hlp
+f gllarob.ado
+f gllas_yu.ado
+f gllasim.ado
+f gllasim.hlp
+f remcor.ado
